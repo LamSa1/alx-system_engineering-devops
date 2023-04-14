@@ -1,0 +1,3 @@
+#!/bin/bash
+wget -O star_wars_script.txt https://www.imsdb.com/scripts/Star-Wars-A-New-Hope.html
+cat star_wars_script.txt
